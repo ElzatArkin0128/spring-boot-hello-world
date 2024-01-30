@@ -21,6 +21,6 @@ jobs:
 
     - name: Test with Maven
       run: mvn test
-      working-directory: src/test/java/example/helloworld
+      working-directory: src
  
     
