@@ -21,6 +21,6 @@ jobs:
 
     - name: Test with Maven
       run: mvn test
-      working-directory: spring-boot-hello-world
+      working-directory: src/test/java/example/helloworld
  
     
